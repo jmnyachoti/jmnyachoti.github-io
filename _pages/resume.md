@@ -5,6 +5,7 @@ layout: single
 author_profile: true
 ---
 
+
 # 📄 Jonathan Nyachoti – Résumé
 
 Looking for a **reliable, self-driven IT professional** with a track record of solving real-world tech problems, supporting large-scale IT operations, and leading teams to deliver service excellence?
