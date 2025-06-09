@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-# 
+# 👋 Hello, I'm Jonathan Nyachoti
 
 An IT professional with over **3 years of customer service and technical support experience** across various industries. I specialize in **IT service management**, **hardware maintenance**, and **network troubleshooting**. I’m passionate about **cybersecurity**, continuously sharpening my skills in network security and infrastructure through hands-on work and ongoing certifications.
 
