@@ -3,8 +3,8 @@ title: Jonathan Nyachoti
 email: jonathanmogaka90@gmail.com
 description: >-
   Portfolio of an IT Support Professional and Cybersecurity Enthusiast. Passionate about solving real-world tech problems, mentoring others, and continuous learning.
-twitter_username: jonathan_nyachoti
-github_username: yourusername
+# twitter_username: jonathan_nyachoti
+github_username: jmnyachoti
 minimal_mistakes_skin: neon
 search: true
 
@@ -31,29 +31,29 @@ plugins:
 author:
   name   : "Jonathan Nyachoti"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "IT Support Specialist | Cybersecurity Learner | CCNA Certified | Passionate about tech & people."
+  bio    : "IT Support Specialist | Cybersecurity Learner."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/YOUR-PROFILE"
+      url: "https://www.linkedin.com/in/jonathan-mogaka"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yourusername"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:jonathanmogaka90@gmail.com"
+      url: "https://github.com/jmnyachoti"
+   # - label: "Email"
+   #   icon: "fas fa-fw fa-envelope"
+   #  url: "mailto:jonathanmogaka90@gmail.com"
 
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/YOUR-PROFILE"
+      url: "https://www.linkedin.com/in/jonathan-mogaka"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yourusername"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:jonathanmogaka90@gmail.com"
+      url: "https://github.com/jmnyachoti"
+   # - label: "Email"
+   #  icon: "fas fa-fw fa-envelope"
+   #   url: "mailto:jonathanmogaka90@gmail.com"
 
 defaults:
   # _posts
