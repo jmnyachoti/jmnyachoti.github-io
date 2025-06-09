@@ -5,6 +5,7 @@ layout: single
 author_profile: true
 ---
 
+
 # 👋 Hello, I'm Jonathan Nyachoti
 
 An IT professional with over **3 years of customer service and technical support experience**, passionate about **cybersecurity**, **IT infrastructure**, and helping people solve real-world tech challenges.
