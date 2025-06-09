@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-author_profile: true
+#author_profile: true
 ---
 
 ---
@@ -79,8 +79,7 @@ Provided tech support to students and faculty, managed printing/document formatt
 ---
 
 ## 📫 Let's Connect
-
-- 📧 [jonathanmogaka90@gmail.com](mailto:jonathanmogaka90@gmail.com)  
+  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)  
 - 💻 [GitHub](https://github.com/YOUR-USERNAME)
 
