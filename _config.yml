@@ -47,7 +47,7 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/YOUR-PROFILE"
+      url: "https://www.linkedin.com/in/jonathan-mogaka"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yourusername"
@@ -59,13 +59,12 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/YOUR-PROFILE"
+      url: "https://www.linkedin.com/in/jonathan-mogaka"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/jmnyachoti"
     - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:jonathanmogaka90@gmail.com"
+
 
 defaults:
   # _posts
@@ -120,14 +119,14 @@ author:
   avatar : "/assets/images/Photo.jpg"
   bio    : "IT Support Specialist | Cybersecurity Learner."
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jonathan-mogaka"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jmnyachoti"
+   # - label: "LinkedIn"
+   #  icon: "fab fa-fw fa-linkedin"
+   #  url: "https://www.linkedin.com/in/jonathan-mogaka"
+   #  - label: "GitHub"
+   #  icon: "fab fa-fw fa-github"
+   #  url: "https://github.com/jmnyachoti"
    # - label: "Email"
-   #   icon: "fas fa-fw fa-envelope"
+   #  icon: "fas fa-fw fa-envelope"
    #  url: "mailto:jonathanmogaka90@gmail.com"
 
 footer:
