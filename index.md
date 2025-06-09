@@ -22,7 +22,6 @@ An IT professional with over **3 years of customer service and technical support
 - Mobile Device Repair
 - Helpdesk Ticketing & SLA Management
 - Microsoft 365 Suite & Microsoft Teams
-- Cisco Networking – CCNA Certified
 - IT Documentation & Stakeholder Collaboration
 - Customer Training & Cross-Departmental Support
 
