@@ -30,7 +30,7 @@ plugins:
 
 author:
   name   : "Jonathan Nyachoti"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Photo.jpg"
   bio    : "IT Support Specialist | Cybersecurity Learner."
   links:
     - label: "LinkedIn"
