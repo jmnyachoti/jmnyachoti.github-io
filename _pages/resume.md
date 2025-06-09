@@ -1,70 +1,54 @@
 ---
-title: "Résumé"
+title: "Resume"
 permalink: /resume/
 layout: single
 author_profile: true
 ---
 
+# 📄 Résumé – Jonathan Nyachoti
 
-# 📄 Jonathan Nyachoti – Résumé
+## 🎓 Academic Background
 
-Looking for a **reliable, self-driven IT professional** with a track record of solving real-world tech problems, supporting large-scale IT operations, and leading teams to deliver service excellence?
-
-You've come to the right place.
-
----
-
-## 🧑‍💼 Why Hire Me?
-
-- **3+ years of experience** in IT support, helpdesk systems, and infrastructure troubleshooting
-- Proven ability to **lead teams**, deliver solutions, and exceed service expectations
-- Fluent in **hardware diagnostics**, **network administration**, and **user training**
-- Certified in **CCNA (3 tracks)** and foundational **cybersecurity skills**
-- Clear communicator who bridges the gap between IT and people
+**BSc in Computer Science**  
+Maseno University – *Graduated: July 2022*
 
 ---
 
-## 🧠 Key Strengths
+## 💼 Work Experience
 
-- Windows/Linux System Administration  
-- Networking & Infrastructure Setup  
-- SLA-driven Technical Support  
-- Helpdesk & ITSM Tools  
-- Cybersecurity Fundamentals  
-- Mobile Device & Hardware Repair  
-- Technical Documentation & Team Mentorship
+**IT Services Manager – Neotech Kenya Ltd.**  
+*June 2024 – Present*  
+- Led a support team and aligned IT services with business needs.
+- Reduced ticket resolution time by 20% via internal process documentation.
 
----
-
-## 📥 Download My CV
-
-Want the full picture?  
-👉 [Click here to download my CV (PDF)](https://yourgithubrepo.github.io/assets/Jonathan_Nyachoti_CV.pdf)
-
-*(Make sure you upload your actual PDF into the `/assets/` folder of your repo.)*
-
----
-
-## 🗂️ Recent Roles
-
-**IT Services Manager** – *Neotech Kenya Ltd.*  
-Led a support team, streamlined documentation, reduced resolution time, and aligned IT strategy with business needs.
-
-**Technical Support Assistant** – *Neotech Kenya Ltd.*  
-Resolved 100+ issues weekly, trained junior staff, and maintained over 90% user satisfaction.
+**Technical Support Assistant – Neotech Kenya Ltd.**  
+*March 2023 – June 2024*  
+- Delivered daily support, trained new staff, and maintained SLA compliance.
 
 **Intern – Kenya Revenue Authority**  
-Gained hands-on experience with enterprise hardware and ITSM tools in a mission-critical environment.
+*Jan 2023 – Mar 2023*  
+- Supported network troubleshooting and IT service documentation.
 
 ---
 
-## 📫 Let's Connect
+## 📜 Certifications
 
-- 📧 [jonathanmogaka90@gmail.com](mailto:jonathanmogaka90@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-PROFILE)  
-- 💻 [GitHub](https://github.com/yourusername)
+- CCNA: Introduction to Networks  
+- CCNA: Switching & Routing  
+- CCNA: Enterprise Networking  
+- Introduction to Cybersecurity – Cisco  
+- Computer Hardware Basics  
+- Digital Awareness  
+- Engaging Stakeholders for Success
 
 ---
 
-_“Technology should empower, not frustrate. That’s why I do what I do.”_
+## 🧰 Technical Skills
 
+- IT Support & Troubleshooting  
+- Windows/Linux OS Installation  
+- Network Setup & Maintenance  
+- Mobile Device Repair  
+- Microsoft Office & Teams  
+- Helpdesk Tools | ITSM  
+- Cybersecurity Fundamentals  
