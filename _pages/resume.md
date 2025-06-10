@@ -76,16 +76,16 @@ Maseno University — *Graduated: July 2022*
 
 ---
 
+
 ## 🧰 Technical Skills
 
-- IT Support & Troubleshooting  
-- Windows/Linux System Administration  
-- Network Infrastructure Setup  
-- Helpdesk Tools (ITSM)  
-- Microsoft Office & Teams  
-- Cybersecurity Fundamentals  
-- Mobile Device & Hardware Repair  
-- Technical Documentation & User Training
+- 🖥️ **Operating Systems:** Windows, Linux  
+- 🌐 **Networking:** LAN/WAN Setup, Network Troubleshooting, CCNA Certified  
+- 🔧 **IT Support:** Hardware/Software Troubleshooting, User Training, SLA Management  
+- 🧰 **Tools & Platforms:** Helpdesk Systems, Microsoft Office Suite, Microsoft Teams, Google Workspace  
+- 🛡️ **Cybersecurity:** Threat Identification, Vulnerability Awareness, Basic Firewall & Privilege Escalation  
+- 📄 **Documentation:** Technical Reporting, Record Keeping, End-User Guides  
+- 📱 **Mobile & Hardware:** Device Assembly, Diagnostics, Mobile Repair  
 
 ---
 
