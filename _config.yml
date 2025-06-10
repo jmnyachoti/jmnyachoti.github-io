@@ -20,7 +20,6 @@ github_username: yourusername
 minimal_mistakes_skin: neon
 search: true
 
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
