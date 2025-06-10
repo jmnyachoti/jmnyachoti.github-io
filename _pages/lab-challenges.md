@@ -17,7 +17,7 @@ author_profile: true
 - Gained root via privilege escalation using SUID
 
 **Screenshot:**  
-![Nibbles Foothold](../assets/images/nibbles-shell.png)
+![Nibbles Foothold](../assets/images/Nibbles.png)
 
 **Key Lessons:**  
 - Importance of directory brute-forcing  
