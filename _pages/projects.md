@@ -19,10 +19,6 @@ These are real-world projects and hands-on labs I've worked on to deepen my skil
 
 A Python-based automation tool that checks for incorrect or missing links between invoices, claims, and preauths in a medical billing system. It runs daily, validates records via API, and flags or fixes linking issues to avoid double deduction of medical benefits.
 
-✅ Reduced manual processing by 60%  
-✅ Prevented payment errors using automated validation
-
-[View Code](#) | [Demo Writeup](#) *(optional links)*
 
 ---
 
@@ -60,5 +56,5 @@ Designed a simple internal ticketing system for a small business using Google to
 
 ## 💡 More Coming Soon...
 
-I'm currently building more cybersecurity labs, scripting utilities, and tech blog posts — stay tuned!
+I'm currently building more cybersecurity labs & scripting utilities — stay tuned!
 
