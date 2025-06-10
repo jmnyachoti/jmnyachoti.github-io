@@ -18,7 +18,6 @@ Maseno University — *Graduated: July 2022*
 
 ---
 
-## 💼 Work Experience
 
 ## 💼 Work Experience
 
