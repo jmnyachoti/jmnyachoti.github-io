@@ -1,14 +1,5 @@
 # Site settings
 title: Jonathan Nyachoti
-#email: jonathanmogaka90@gmail.com
-description: >-
-  Portfolio of an IT Support Professional and Cybersecurity Enthusiast. Passionate about solving real-world tech problems, mentoring others, and continuous learning.
-# twitter_username: jonathan_nyachoti
-github_username: jmnyachoti
-minimal_mistakes_skin: neon
-search: true
-# Site settings
-title: Jonathan Nyachoti
 email: jonathanmogaka90@gmail.com
 description: >-
   Portfolio of an IT Support Professional and Cybersecurity Enthusiast.
@@ -16,7 +7,7 @@ description: >-
   automation, and security.
 
 twitter_username: jonathannyachoti
-github_username: yourusername
+github_username: jmnyachoti
 minimal_mistakes_skin: neon
 search: true
 
