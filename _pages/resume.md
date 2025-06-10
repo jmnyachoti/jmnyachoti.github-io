@@ -28,7 +28,6 @@ You're in the right place.
 
 👉 [Click here to download my full CV (PDF)](/assets/Jonathan_Nyachoti_CV.pdf)
 
-*(Make sure the PDF is uploaded to `/assets/` in your repo)*
 
 ---
 
