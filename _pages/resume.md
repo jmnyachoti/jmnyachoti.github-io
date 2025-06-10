@@ -26,7 +26,7 @@ You're in the right place.
 
 ## 📥 Download My Full CV
 
-👉 [Click here to download my full CV (PDF)](/assets/Jonathan_Nyachoti_CV.pdf)
+👉 [Click here to download my full CV (PDF)](/assets/Jonathan_Mogaka_CV.pdf)
 
 
 ---
