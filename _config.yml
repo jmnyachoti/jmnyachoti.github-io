@@ -42,8 +42,8 @@ plugins:
 
 author:
   name   : "Jonathan Nyachoti"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "IT Support Specialist | Cybersecurity Learner | CCNA Certified | Bridging people and technology."
+  avatar : "/assets/images/Photo.jpg"
+  bio    : "IT Support Specialist | Cybersecurity Learner |"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
